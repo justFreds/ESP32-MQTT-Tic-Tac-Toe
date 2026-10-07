@@ -12,8 +12,8 @@
 #define LED9  26
 
 // WiFi
-const char *ssid = "LA500"; // Enter your WiFi name
-const char *password = "myemelmatt";  // Enter WiFi password
+const char *ssid = "YOUR_WIFI_SSID"; // Enter your WiFi name
+const char *password = "YOUR_WIFI_PASSWORD";  // Enter WiFi password
 
 // MQTT Broker
 const char *mqtt_broker = "broker.emqx.io";
