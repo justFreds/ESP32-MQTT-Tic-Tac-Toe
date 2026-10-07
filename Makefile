@@ -1,3 +1,3 @@
 CC = gcc
 program: src/tictactoe.c
-	$(CC) src/tictacoe.c -lpaho-mqtt3c -o tictactoe
+	$(CC) src/tictactoe.c -lpaho-mqtt3c -o tictactoe
